@@ -1,0 +1,22 @@
+{
+  "name": "unit-testing-jest",
+  "version": "1.0.0",
+  "description": "How does it work?",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yulissateran/unit-testing-jest.git"
+  },
+  "author": "Yulissa Teran <yulissa.lteran@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yulissateran/unit-testing-jest/issues"
+  },
+  "homepage": "https://github.com/yulissateran/unit-testing-jest#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
