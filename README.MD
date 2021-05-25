@@ -28,9 +28,9 @@ Disadvantages
 
 - It does not detect human errors in tests :)
 
-#   Jest? 
+#   Jest
 
-Complex framework to make Javascript testing.
+Complete framework to make Javascript testing.
 
 - Fast implementation.
 - Instant feedback.
